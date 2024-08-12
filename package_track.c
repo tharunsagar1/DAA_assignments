@@ -1,3 +1,9 @@
+/*Courier and logistics companies handle a massive volume of packages daily. These
+packages need to be efficiently sorted and routed to their destinations to ensure
+timely and accurate deliveries. Each package typically has a unique barcode that
+contains essential information like the recipient's address, delivery method, and
+tracking number. So, implement an application to arrange the packages based on
+tracking numbers*/
 #include <stdio.h>
 
 void package_tracking(int arr[], int l) {
