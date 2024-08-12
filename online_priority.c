@@ -1,3 +1,11 @@
+/*Imagine you're working for a large online marketplace company that facilitates the
+buying and selling of various products. As part of the order processing system, the
+company receives thousands of new orders every minute from customers all around
+the world. To ensure efficient and timely order fulfillment, the orders need to be
+sorted based on various criteria before they can be processed and shipped.
+Some customers may request advanced shipping or have urgent requirements.
+So, implement an application to arrange the Orders based on priority Number*/
+
 #include <stdio.h>
 
 void priority_number(int arr[], int l) {
