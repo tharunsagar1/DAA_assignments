@@ -1,3 +1,9 @@
+/*In an online bookstore, there are thousands of books available for purchase. The
+bookstore's website allows customers to search for books based on various criteria,
+such as title, author, publication date, and price. if a customer searches for books by
+a specific title and price, the program can arrange the search results by price, from
+low to high or vice versa, based on the customer's preference*/
+
 #include <stdio.h>
 
 void book_price_sort(int arr[], int l) {
